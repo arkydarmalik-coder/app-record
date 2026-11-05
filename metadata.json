@@ -1,0 +1,6 @@
+{
+  "name": "App Screen Recording",
+  "description": "App Screen Recording for monitoring screen activity with secure cloud storage, real-time playback options, timeline markers, and security vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
